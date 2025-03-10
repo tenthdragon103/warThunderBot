@@ -1,2 +1,0 @@
-user1 user2 reason2to1
-user1 user3 reason3to1
